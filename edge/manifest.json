@@ -1,0 +1,54 @@
+{
+    "author": "Konnor88",
+    "background": {
+        "page": "background.html",
+        "persistent": true
+    },
+    "browser_action": {
+        "default_icon": {},
+        "default_title": "Anti-Grabify"
+    },
+    "description": "Blocks IP grabbers from the Grabify website.",
+    "icons": {
+        "128": "icon_128.png"
+    },
+    "manifest_version": 2,
+    "name": "Anti-Grabify",
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "https://grabify.link/*",
+        "https://bmwforum.co/*",
+        "https://leancoding.co/*",
+        "https://leancoding.co/*",
+        "https://spottyfly.com/*",
+        "https://stopify.co/*",
+        "https://yoütu.be/*",
+        "https://discörd.com/*",
+        "https://minecräft.com/*",
+        "https://freegiftcards.co/*",
+        "https://disçordapp.com/*",
+        "https://xda-developers.us/*",
+        "https://quickmessage.us/*",
+        "https://fortnight.space/*",
+        "https://fortnitechat.site/*",
+        "https://youshouldclick.us/*",
+        "https://joinmy.site/*",
+        "https://crabrave.pw/*",
+        "https://grabify.link/*",
+        "https://xn--yotu-1ra.be/*",
+        "https://xn--disordapp-s3a.com/*",
+        "https://xn--minecrft-5za.com/*",
+        "https://xn--discrd-zxa.com/*",
+        "https://iplogger.org/*",
+        "https://2no.co/*",
+        "https://iplogger.com/*",
+        "https://iplogger.ru/*",
+        "https://yip.su/*"
+    ],
+    "version": "1.0",
+    "-ms-preload": {
+        "backgroundScript": "backgroundScriptsAPIBridge.js",
+        "contentScript": "contentScriptsAPIBridge.js"
+    }
+}
