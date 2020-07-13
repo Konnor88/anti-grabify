@@ -1,6 +1,6 @@
 {
     "name": "Anti-Grabify",
-    "version": "1.0",
+    "version": "1.2",
     "manifest_version": 2,
     "description": "Blocks IP grabbers from the Grabify website.",
     "background": {
@@ -45,6 +45,9 @@
       "https://iplogger.com/*",
       "https://iplogger.ru/*",
       "https://yip.su/*"
+	  "https://curiouscat.club/*"
+	  "https://catsnthings.com/*"
+	  "https://catsnthings.fun/*"
       
       
     ]
