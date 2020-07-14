@@ -1,0 +1,57 @@
+{
+    "name": "Anti-Grabify",
+    "version": "1.2",
+    "manifest_version": 2,
+    "description": "Blocks IP grabbers from the Grabify website.",
+    "background": {
+      "scripts": ["background.js"]
+    },
+"applications": {
+  "gecko": {
+    "strict_min_version": "56.0a1"
+  }
+},
+  
+    "icons": {
+      "128" : "icon_128.png"
+    },
+    "browser_action": {
+      "default_icon": "icon_128.png",
+      "default_title": "Anti-Grabify"
+    },
+    "permissions": [
+      "webRequest",
+      "webRequestBlocking",
+      "https://grabify.link/*",
+      "https://bmwforum.co/*",
+      "https://leancoding.co/*",
+      "https://spottyfly.com/*",
+      "https://stopify.co/*",
+      "https://yoütu.be/*",
+      "https://discörd.com/*",
+      "https://minecräft.com/*",
+      "https://freegiftcards.co/*",
+      "https://disçordapp.com/*",
+      "https://xda-developers.us/*",
+      "https://quickmessage.us/*",
+      "https://fortnight.space/*",
+      "https://fortnitechat.site/*",
+      "https://youshouldclick.us/*",
+      "https://joinmy.site/*",
+      "https://crabrave.pw/*",
+      "https://xn--yotu-1ra.be/*",
+      "https://xn--disordapp-s3a.com/*",
+      "https://xn--minecrft-5za.com/*",
+      "https://xn--discrd-zxa.com/*",
+      "https://iplogger.org/*",
+      "https://2no.co/*",
+      "https://iplogger.com/*",
+      "https://iplogger.ru/*",
+      "https://yip.su/*",
+	  "https://curiouscat.club/*",
+	  "https://catsnthings.com/*",
+	  "https://catsnthings.fun/*"
+      
+      
+    ]
+  }
