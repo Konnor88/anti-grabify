@@ -1,6 +1,6 @@
 {
     "name": "Anti-Grabify",
-    "version": "1.2",
+    "version": "1.3",
     "manifest_version": 2,
     "description": "Blocks IP grabbers from the Grabify website.",
     "background": {
@@ -23,6 +23,7 @@
       "webRequest",
       "webRequestBlocking",
       "https://grabify.link/*",
+      "http://grabify.link/*",
       "https://bmwforum.co/*",
       "https://leancoding.co/*",
       "https://spottyfly.com/*",
@@ -50,7 +51,18 @@
       "https://yip.su/*",
 	  "https://curiouscat.club/*",
 	  "https://catsnthings.com/*",
-	  "https://catsnthings.fun/*"
+    "https://catsnthings.fun/*",
+    "http://www.ps3cfw.com/*",
+    "http://blasze.tk/*",
+    "https://www.ps3cfw.com/*",
+    "https://blasze.tk/*",
+    "http://api.grabify.link/*",
+     "https://api.grabify.link/*",
+     "https://iplis.org/*",
+     "https://02ip.ru/*",
+     "https://iplogger.co/*",
+     "https://iplogger.info/*",
+     "https://ipgraber.ru/*"
       
       
     ]
