@@ -1,6 +1,6 @@
 {
     "name": "Anti-Grabify",
-    "version": "1.3",
+    "version": "1.4",
     "manifest_version": 2,
     "description": "Blocks IP grabbers from the Grabify website.",
     "background": {
@@ -62,7 +62,22 @@
      "https://02ip.ru/*",
      "https://iplogger.co/*",
      "https://iplogger.info/*",
-     "https://ipgraber.ru/*"
+     "https://ipgraber.ru/*",
+     "https://lovebird.guru/*",
+     "https://trulove.guru/*",
+     "https://dateing.club/*",
+     "https://otherhalf.life/*",
+     "https://shrekis.life/*",
+     "https://datasig.io/*",
+     "https://datauth.io/*",
+     "https://headshot.monster/*",
+     "https://gaming-at-my.best/*",
+     "https://programing.monster/*",
+     "https://screenshare.host/*",
+     "https://gamingfun.me/*",
+     "https://ipgrabber.ru/*",
+     "https://iplist.ru/*",
+     "https://ezstat.ru/*"
       
       
     ]
