@@ -1,6 +1,6 @@
 {
     "name": "Anti-Grabify",
-    "version": "1.5",
+    "version": "1.6",
     "manifest_version": 2,
     "description": "Blocks IP grabbers from the Grabify website.",
     "background": {
@@ -76,6 +76,8 @@
      "https://yourmy.monster/*",
      "https://imageshare.best/*", 
      "https://mypic.icu/*", 
-     "https://screenshot.best/*"
+     "https://screenshot.best/*",
+     "https://grabify.world/*",
+     "https://grabify.icu/*"
     ]
   }
