@@ -1,8 +1,8 @@
 {
     "name": "Anti-Grabify",
-    "version": "1.7",
+    "version": "1.8",
     "manifest_version": 2,
-    "description": "Blocks IP grabbers from the Grabify website.",
+    "description": "Blocks IP grabbers from Grabify and 20+ other websites.",
     "background": {
       "scripts": ["background.js"]
     },
@@ -79,6 +79,11 @@
      "https://screenshot.best/*",
      "https://grabify.world/*",
      "https://grabify.icu/*",
-     "https://iplis.ru/*"
+     "https://iplis.ru/*",
+     "https://yoink.rip/*",
+     "https://easterndigital.ga/*",
+      "https://skytechnology.ga/*",
+      "https://adobee.cf/*",
+      "https://youtbe.ml/*"
     ]
   }
