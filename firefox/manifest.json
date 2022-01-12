@@ -1,6 +1,6 @@
 {
     "name": "Anti-Grabify",
-    "version": "1.8",
+    "version": "1.9",
     "manifest_version": 2,
     "description": "Blocks IP grabbers from Grabify and 20+ other websites.",
     "background": {
@@ -89,6 +89,13 @@
        "https://easterndigital.ga/*",
         "https://skytechnology.ga/*",
         "https://adobee.cf/*",
-        "https://youtbe.ml/*"
+        "https://youtbe.ml/*",
+        "https://partpicker.shop/*",
+        "https://websafe.online/*",
+        "https://sportshub.bar/*",
+        "https://herald.sbs/*", 
+        "https://locations.quest/*",
+        "https://maifile.cn/*",
+        "https://linkify.me/*"
     ]
   }
