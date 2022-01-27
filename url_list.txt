@@ -1,3 +1,6 @@
+! Title: Anti-Grabify for uBO
+! Description: This filter uses the rules from the Anti-Grabify extension to block all the IP grabber links that the Grabify service currently uses.
+
 grabify.link/*
 grabify.link/*
 bmwforum.co/*
