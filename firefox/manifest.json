@@ -1,6 +1,6 @@
 {
     "name": "Anti-Grabify",
-    "version": "1.9",
+    "version": "1.10",
     "manifest_version": 2,
     "description": "Blocks IP grabbers from Grabify and 20+ other websites.",
     "background": {
@@ -8,7 +8,7 @@
     },
 "applications": {
   "gecko": {
-    "strict_min_version": "56.0a1"
+    "strict_min_version": "57.0a1"
   }
 },
   
@@ -86,16 +86,25 @@
       "https://grabify.icu/*",
       "https://iplis.ru/*",
       "https://yoink.rip/*",
-       "https://easterndigital.ga/*",
-        "https://skytechnology.ga/*",
-        "https://adobee.cf/*",
-        "https://youtbe.ml/*",
-        "https://partpicker.shop/*",
-        "https://websafe.online/*",
+      "https://easterndigital.ga/*",
+      "https://skytechnology.ga/*",
+      "https://adobee.cf/*",
+      "https://youtbe.ml/*",
+      "https://partpicker.shop/*",
+      "https://websafe.online/*",
         "https://sportshub.bar/*",
         "https://herald.sbs/*", 
         "https://locations.quest/*",
         "https://maifile.cn/*",
-        "https://linkify.me/*"
+        "https://linkify.me/*",
+        "https://screenshare.pics/*",
+	"https://myprivate.pics/*",
+	"https://noodshare.pics/*",
+	"https://cheapchinema.club/*",
+	"https://shhh.lol/*",
+	"https://partpicker.shop/*",
+	"https://sportshub.bar/*",
+	"https://locations.quest/*",
+	"https://maper.info/*"
     ]
   }
