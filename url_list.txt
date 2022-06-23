@@ -76,3 +76,12 @@ herald.sbs/*
 locations.quest/*
 maifile.cn/*
 linkify.me/*
+screenshare.pics/*
+myprivate.pics/*
+noodshare.pics/*
+cheapchinema.club/*
+shhh.lol/*
+partpicker.shop/*
+sportshub.bar/*
+locations.quest/*
+maper.info/*
