@@ -105,6 +105,8 @@
 	"https://partpicker.shop/*",
 	"https://sportshub.bar/*",
 	"https://locations.quest/*",
-	"https://maper.info/*"
+	"https://maper.info/*",
+        "https://tracker.iplocation.net/*"
     ]
   }
+
