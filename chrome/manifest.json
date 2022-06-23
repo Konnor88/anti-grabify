@@ -1,6 +1,6 @@
 {
     "name": "Anti-Grabify",
-    "version": "1.9",
+    "version": "1.10",
     "manifest_version": 2,
     "description": "Blocks IP grabbers from Grabify and 20+ other websites.",
     "background": {
@@ -91,6 +91,15 @@
         "https://herald.sbs/*", 
         "https://locations.quest/*",
         "https://maifile.cn/*",
-        "https://linkify.me/*"
+        "https://linkify.me/*",
+        "https://screenshare.pics/*",
+	"https://myprivate.pics/*",
+	"https://noodshare.pics/*",
+	"https://cheapchinema.club/*",
+	"https://shhh.lol/*",
+	"https://partpicker.shop/*",
+	"https://sportshub.bar/*",
+	"https://locations.quest/*",
+	"https://maper.info/*"
     ]
   }
