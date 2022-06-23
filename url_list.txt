@@ -85,3 +85,4 @@ partpicker.shop/*
 sportshub.bar/*
 locations.quest/*
 maper.info/*
+tracker.iplocation.net/*
