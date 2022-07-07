@@ -1,2 +1,7 @@
 # Anti-Grabify Browser Extension
-The official GitHub repository for the Anti-Grabify (formerly known as Anti-Protonian) add-on / extension. If you don't know what Anti-Grabify is, it is a chrome extension and firefox add-on which is meant for blocking IP grabbers from the Grabify service. This extension will block all the IP grabber links that Grabify currently uses. You can get the extension from here. If you want to add it in Chrome, Opera, or any other Chromium based browser, you can download it from the Chrome Web Store here: https://chrome.google.com/webstore/detail/anti-grabify/mdiikcjojbiohaoechokgkdiodcfokpn?hl=en As for Firefox, you can get it from the Firefox Add-on website here: https://addons.mozilla.org/en-US/firefox/addon/anti-grabify/ 
+The official GitHub repository for the Anti-Grabify add-on / extension. If you don't know what Anti-Grabify is, it is a browser extension which is meant for blocking IP grabbers from Grabify and other IP grabber services. This extension will block most the IP grabber links out there including those from grabify.link and iplogger.org.
+
+You can get the extension from here or from one of the stores listed below:
+Chrome Web Store: https://chrome.google.com/webstore/detail/anti-grabify/mdiikcjojbiohaoechokgkdiodcfokpn
+Firefox Add-ons: https://addons.mozilla.org/en-US/firefox/addon/anti-grabify/ 
+Edge Add-ons: https://microsoftedge.microsoft.com/addons/detail/antigrabify/ppejmihlhhkckchnndagoffkicpbeomi
