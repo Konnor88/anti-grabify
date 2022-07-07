@@ -2,27 +2,12 @@
 ! Description: This filter uses the rules from the Anti-Grabify extension to block all the IP grabber links that the Grabify service currently uses.
 
 grabify.link/*
-grabify.link/*
 bmwforum.co/*
 leancoding.co/*
-spottyfly.com/*
 stopify.co/*
-yoütu.be/*
-discörd.com/*
-minecräft.com/*
-freegiftcards.co/*
-disçordapp.com/*
-xda-developers.us/*
-quickmessage.us/*
 fortnight.space/*
 fortnitechat.site/*
-youshouldclick.us/*
 joinmy.site/*
-crabrave.pw/*
-xn--yotu-1ra.be/*
-xn--disordapp-s3a.com/*
-xn--minecrft-5za.com/*
-xn--discrd-zxa.com/*
 iplogger.org/*
 2no.co/*
 iplogger.com/*
@@ -31,11 +16,7 @@ yip.su/*
 curiouscat.club/*
 catsnthings.com/*
 catsnthings.fun/*
-www.ps3cfw.com/*
-blasze.tk/*
-www.ps3cfw.com/*
-blasze.tk/*
-api.grabify.link/*
+ps3cfw.com/*
 api.grabify.link/*
 iplis.org/*
 02ip.ru/*
@@ -47,8 +28,6 @@ trulove.guru/*
 dateing.club/*
 otherhalf.life/*
 shrekis.life/*
-datasig.io/*
-datauth.io/*
 headshot.monster/*
 gaming-at-my.best/*
 programing.monster/*
@@ -64,11 +43,6 @@ screenshot.best/*
 grabify.world/*
 grabify.icu/*
 iplis.ru/*
-yoink.rip/*
-easterndigital.ga/*
-skytechnology.ga/*
-adobee.cf/*
-youtbe.ml/*
 partpicker.shop/*
 websafe.online/*
 sportshub.bar/*
@@ -81,8 +55,5 @@ myprivate.pics/*
 noodshare.pics/*
 cheapchinema.club/*
 shhh.lol/*
-partpicker.shop/*
-sportshub.bar/*
-locations.quest/*
 maper.info/*
 tracker.iplocation.net/*
