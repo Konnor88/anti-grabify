@@ -1,6 +1,7 @@
 ! Title: Anti-Grabify for uBO
 ! Description: This filter uses the rules from the Anti-Grabify extension to block all the IP grabber links that the Grabify service currently uses.
 
+! Grabify Links
 grabify.link/*
 bmwforum.co/*
 leancoding.co/*
@@ -8,21 +9,10 @@ stopify.co/*
 fortnight.space/*
 fortnitechat.site/*
 joinmy.site/*
-iplogger.org/*
-2no.co/*
-iplogger.com/*
-iplogger.ru/*
-yip.su/*
 curiouscat.club/*
 catsnthings.com/*
 catsnthings.fun/*
-ps3cfw.com/*
 api.grabify.link/*
-iplis.org/*
-02ip.ru/*
-iplogger.co/*
-iplogger.info/*
-ipgraber.ru/*
 lovebird.guru/*
 trulove.guru/*
 dateing.club/*
@@ -33,27 +23,40 @@ gaming-at-my.best/*
 programing.monster/*
 screenshare.host/*
 gamingfun.me/*
-ipgrabber.ru/*
-iplist.ru/*
-ezstat.ru/*
 yourmy.monster/*
 imageshare.best/*
 mypic.icu/*
 screenshot.best/*
 grabify.world/*
 grabify.icu/*
-iplis.ru/*
 partpicker.shop/*
 websafe.online/*
 sportshub.bar/*
-herald.sbs/*
 locations.quest/*
-maifile.cn/*
 linkify.me/*
 screenshare.pics/*
 myprivate.pics/*
 noodshare.pics/*
 cheapchinema.club/*
 shhh.lol/*
+
+! IPLogger Links
+iplogger.org/*
+2no.co/*
+iplogger.com/*
+iplogger.ru/*
+yip.su/*
+iplis.org/*
+02ip.ru/*
+iplogger.co/*
+iplogger.info/*
+ipgraber.ru/*
+ipgrabber.ru/*
+iplist.ru/*
+ezstat.ru/*
+iplis.ru/*
 maper.info/*
+
+! Other IP-Grabber Links
+ps3cfw.com/*
 tracker.iplocation.net/*
