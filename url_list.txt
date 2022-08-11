@@ -10,7 +10,7 @@ fortnight.space/*
 fortnitechat.site/*
 joinmy.site/*
 curiouscat.club/*
-catsnthings.com/*
+catsnthing.com/*
 catsnthings.fun/*
 api.grabify.link/*
 lovebird.guru/*
@@ -20,7 +20,7 @@ otherhalf.life/*
 shrekis.life/*
 headshot.monster/*
 gaming-at-my.best/*
-programing.monster/*
+progaming.monster/*
 screenshare.host/*
 gamingfun.me/*
 yourmy.monster/*
@@ -37,7 +37,7 @@ linkify.me/*
 screenshare.pics/*
 myprivate.pics/*
 noodshare.pics/*
-cheapchinema.club/*
+cheapcinema.club/*
 shhh.lol/*
 grabifyicu.com/*
 
