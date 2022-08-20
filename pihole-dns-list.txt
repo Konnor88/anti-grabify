@@ -1,0 +1,63 @@
+# Title: Anti-Grabify Blocklist
+# Description: This is a list of IP grabber domains, most of which from Grabify.
+# Last modified: 20 Aug 2022
+# Expires: 1 day
+# Website: https://github.com/Konnor88/anti-grabify
+# Total number of network filters: 56
+#
+0.0.0.0 www.grabify.link
+0.0.0.0 www.bmwforum.co
+0.0.0.0 www.leancoding.co
+0.0.0.0 www.stopify.co
+0.0.0.0 www.fortnight.space
+0.0.0.0 www.fortnitechat.site
+0.0.0.0 www.joinmy.site
+0.0.0.0 www.curiouscat.club
+0.0.0.0 www.catsnthing.com
+0.0.0.0 www.catsnthings.fun
+0.0.0.0 www.api.grabify.link
+0.0.0.0 www.lovebird.guru
+0.0.0.0 www.trulove.guru
+0.0.0.0 www.dateing.club
+0.0.0.0 www.otherhalf.life
+0.0.0.0 www.shrekis.life
+0.0.0.0 www.headshot.monster
+0.0.0.0 www.gaming-at-my.best
+0.0.0.0 www.progaming.monster
+0.0.0.0 www.screenshare.host
+0.0.0.0 www.gamingfun.me
+0.0.0.0 www.yourmy.monster
+0.0.0.0 www.imageshare.best
+0.0.0.0 www.mypic.icu
+0.0.0.0 www.screenshot.best
+0.0.0.0 www.grabify.world
+0.0.0.0 www.grabify.icu
+0.0.0.0 www.partpicker.shop
+0.0.0.0 www.websafe.online
+0.0.0.0 www.sportshub.bar
+0.0.0.0 www.locations.quest
+0.0.0.0 www.linkify.me
+0.0.0.0 www.screenshare.pics
+0.0.0.0 www.myprivate.pics
+0.0.0.0 www.noodshare.pics
+0.0.0.0 www.cheapcinema.club
+0.0.0.0 www.shhh.lol
+0.0.0.0 www.grabifyicu.com
+0.0.0.0 www.iplogger.org
+0.0.0.0 www.2no.co
+0.0.0.0 www.iplogger.com
+0.0.0.0 www.iplogger.ru
+0.0.0.0 www.yip.su
+0.0.0.0 www.iplis.org
+0.0.0.0 www.02ip.ru
+0.0.0.0 www.iplogger.co
+0.0.0.0 www.iplogger.info
+0.0.0.0 www.ipgraber.ru
+0.0.0.0 www.ipgrabber.ru
+0.0.0.0 www.iplist.ru
+0.0.0.0 www.ezstat.ru
+0.0.0.0 www.iplis.ru
+0.0.0.0 www.maper.info
+0.0.0.0 www.ps3cfw.com
+0.0.0.0 www.tracker.iplocation.net
+0.0.0.0 www.gyazo.nl
