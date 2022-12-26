@@ -68,4 +68,3 @@ ps3cfw.com/*
 tracker.iplocation.net/*
 yȯutube.com/*
 gyazo.nl/*
-ps3cfw.com/*
