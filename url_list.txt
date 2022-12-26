@@ -3,42 +3,44 @@
 
 ! Grabify Links
 grabify.link/*
-bmwforum.co/*
-leancoding.co/*
 stopify.co/*
 fortnight.space/*
 fortnitechat.site/*
 joinmy.site/*
-curiouscat.club/*
-catsnthing.com/*
 catsnthings.fun/*
-api.grabify.link/*
-lovebird.guru/*
-trulove.guru/*
-dateing.club/*
-otherhalf.life/*
-shrekis.life/*
-headshot.monster/*
-gaming-at-my.best/*
-progaming.monster/*
-screenshare.host/*
+catsnthing.com/*
 gamingfun.me/*
-yourmy.monster/*
-imageshare.best/*
-mypic.icu/*
 screenshot.best/*
+yourmy.monster/*
+programing.monster/*
+gaming-at-my.best/*
+headshot.monster/*
+shrekis.life/*
+dateing.club/*
+trulove.guru/*
+lovebird.guru/*
+locations.quest/*
+sportshub.bar/*
+partpicker.shop/*
+shhh.lol/*
+cheapcinema.club/*
+noodshare.pics/*
+myprivate.pics/*
+screenshare.pics/*
+toldyouso.pics/*
+toldyouso.lol/*
+imagehost.pics/*
+imghost.pics/*
+gamertag.shop/*
+pichost.pics/*
+picshost.pics/*
+gamergirl.pro/*
+thisdomainislong.lol/*
+foot.wiki/*
+bathtub.pics/*
+photovault.pics/*
 grabify.world/*
 grabify.icu/*
-partpicker.shop/*
-websafe.online/*
-sportshub.bar/*
-locations.quest/*
-linkify.me/*
-screenshare.pics/*
-myprivate.pics/*
-noodshare.pics/*
-cheapcinema.club/*
-shhh.lol/*
 grabifyicu.com/*
 
 ! IPLogger Links
@@ -57,6 +59,9 @@ iplist.ru/*
 ezstat.ru/*
 iplis.ru/*
 maper.info/*
+wl.gl/*
+ed.tc/*
+bc.ax/*
 
 ! Other IP-Grabber Links
 ps3cfw.com/*
