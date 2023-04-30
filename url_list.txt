@@ -68,3 +68,5 @@ ps3cfw.com/*
 tracker.iplocation.net/*
 yȯutube.com/*
 gyazo.nl/*
+bonzi.lol/*
+uranohoshi.in/*
