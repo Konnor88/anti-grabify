@@ -44,14 +44,9 @@ grabify.icu/*
 grabifyicu.com/*
 
 # added new links
-mymassive.yachts
 stonks.boats
-stonks.fun
 toes.beauty
-barefoot.pics 
-shareit.pics 
 gamer.tattoo 
-shipment.website 
 imagevault.cloud 
 sugma.mom 
 yum.mom 
