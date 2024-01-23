@@ -3,7 +3,7 @@
 # Last modified: 25 Dec 2022
 # Expires: 1 day
 # Website: https://github.com/Konnor88/anti-grabify
-# Total number of network filters: 122
+# Total number of network filters: 152
 #
 0.0.0.0 www.grabify.link
 0.0.0.0 grabify.link
@@ -127,3 +127,33 @@
 0.0.0.0 yȯutube.com
 0.0.0.0 www.gyazo.nl
 0.0.0.0 gyazo.nl
+0.0.0.0 stonks.boats
+0.0.0.0 www.stonks.boats
+0.0.0.0 toes.beauty
+0.0.0.0 www.toes.beauty
+0.0.0.0 gamer.tattoo
+0.0.0.0 www.gamer.tattoo
+0.0.0.0 imagevault.cloud
+0.0.0.0 www.imagevault.cloud
+0.0.0.0 sugma.mom
+0.0.0.0 www.sugma.mom
+0.0.0.0 yum.mom
+0.0.0.0 www.yum.mom
+0.0.0.0 plz.life
+0.0.0.0 www.plz.life
+0.0.0.0 massive.mom
+0.0.0.0 www.massive.mom
+0.0.0.0 massive.boats
+0.0.0.0 www.massive.boats
+0.0.0.0 mymassive.store
+0.0.0.0 www.mymassive.store
+0.0.0.0 mymassive.top
+0.0.0.0 www.mymassive.top
+0.0.0.0 gamer.hair
+0.0.0.0 www.gamer.hair
+0.0.0.0 screenshare.pics
+0.0.0.0 www.screenshare.pics
+0.0.0.0 myprivate.pics
+0.0.0.0 www.myprivate.pics
+0.0.0.0 noodshare.pics
+0.0.0.0 www.noodshare.pics

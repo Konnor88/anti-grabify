@@ -43,6 +43,23 @@ grabify.world/*
 grabify.icu/*
 grabifyicu.com/*
 
+# added new links
+stonks.boats
+toes.beauty
+gamer.tattoo 
+imagevault.cloud 
+sugma.mom 
+yum.mom 
+plz.life 
+massive.mom 
+massive.boats 
+mymassive.store 
+mymassive.top 
+gamer.hair 
+screenshare.pics 
+myprivate.pics 
+noodshare.pics 
+
 ! IPLogger Links
 iplogger.org/*
 2no.co/*
