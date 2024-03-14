@@ -1,46 +1,32 @@
 ! Title: Anti-Grabify for uBO
 ! Description: This filter uses the rules from the Anti-Grabify extension to block all the IP grabber links that the Grabify service currently uses.
 
-! Grabify Links
+! Grabify URLs
 grabify.link/*
-stopify.co/*
-fortnight.space/*
-fortnitechat.site/*
-joinmy.site/*
-catsnthings.fun/*
-catsnthing.com/*
-gamingfun.me/*
-screenshot.best/*
-yourmy.monster/*
-programing.monster/*
-gaming-at-my.best/*
-headshot.monster/*
-shrekis.life/*
-dateing.club/*
-trulove.guru/*
-lovebird.guru/*
-locations.quest/*
-sportshub.bar/*
-partpicker.shop/*
-shhh.lol/*
-cheapcinema.club/*
-noodshare.pics/*
-myprivate.pics/*
+mymassive.yachts/*
+stonks.boats/*
+stonks.fun/*
+toes.beauty/*
+barefoot.pics/*
+shareit.pics/*
+gamer.tattoo/*
+shipment.website/*
+imagevault.cloud/*
+sugma.mom/*
+yum.mom/*
+plz.life/*
+massive.mom/*
+massive.boats/*
+mymassive.store/*
+mymassive.top/*
+gamer.hair/*
 screenshare.pics/*
-toldyouso.pics/*
-toldyouso.lol/*
-imagehost.pics/*
-imghost.pics/*
-gamertag.shop/*
-pichost.pics/*
-picshost.pics/*
-gamergirl.pro/*
-thisdomainislong.lol/*
-foot.wiki/*
-bathtub.pics/*
-photovault.pics/*
-grabify.world/*
+myprivate.pics/*
+noodshare.pics/*
+stopify.co/*
+grabb.site/*
 grabify.icu/*
+grabify.world/*
 grabifyicu.com/*
 
 ! IPLogger Links
@@ -49,7 +35,7 @@ iplogger.org/*
 iplogger.com/*
 iplogger.ru/*
 yip.su/*
-iplis.org/*
+iplist.ru/*
 02ip.ru/*
 iplogger.co/*
 iplogger.info/*
@@ -68,3 +54,4 @@ ps3cfw.com/*
 tracker.iplocation.net/*
 yȯutube.com/*
 gyazo.nl/*
+goo.by/*
