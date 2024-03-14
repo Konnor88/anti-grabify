@@ -1,0 +1,19 @@
+[
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":1,"priority": 1, "condition" : {"urlFilter" : "||iplogger.org/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":2,"priority": 1, "condition" : {"urlFilter" : "||2no.co/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":3,"priority": 1, "condition" : {"urlFilter" : "||iplogger.com/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":4,"priority": 1, "condition" : {"urlFilter" : "||iplogger.ru/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":5,"priority": 1, "condition" : {"urlFilter" : "||yip.su/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":6,"priority": 1, "condition" : {"urlFilter" : "||iplist.ru/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":7,"priority": 1, "condition" : {"urlFilter" : "||02ip.ru/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":8,"priority": 1, "condition" : {"urlFilter" : "||iplogger.co/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":9,"priority": 1, "condition" : {"urlFilter" : "||iplogger.info/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":10,"priority": 1, "condition" : {"urlFilter" : "||ipgraber.ru/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":11,"priority": 1, "condition" : {"urlFilter" : "||ipgrabber.ru/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":12,"priority": 1, "condition" : {"urlFilter" : "||ezstat.ru/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":13,"priority": 1, "condition" : {"urlFilter" : "||iplis.ru/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":14,"priority": 1, "condition" : {"urlFilter" : "||maper.info/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":15,"priority": 1, "condition" : {"urlFilter" : "||wl.gl/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":16,"priority": 1, "condition" : {"urlFilter" : "||ed.tc/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":17,"priority": 1, "condition" : {"urlFilter" : "||bc.ax/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}}
+]
