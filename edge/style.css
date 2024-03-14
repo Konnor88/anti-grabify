@@ -1,0 +1,53 @@
+body {
+  margin-top: 6em;
+  font-size: 12pt;
+  font-family: sans-serif;
+  line-height: 150%;
+}
+
+.content {
+  margin: auto;
+  max-width: 600px;
+}
+
+h1 {
+  display: block;
+}
+
+h1 img {
+  width: 100%;
+  height: auto;
+}
+
+#url-paragraph {
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+@media screen and (max-width: 550px) {
+  button {
+    width: 100%;
+    margin: 8px 0;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #202023;
+    color: #f9f9fa;
+  }
+
+  a {
+    color: #45a1ff;
+  }
+
+  button {
+    color: #202023;
+  }
+
+  button:hover {
+    background-color: #202023;
+    border-color: #ec1e1e;
+  }
+}
