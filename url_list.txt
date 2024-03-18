@@ -55,3 +55,4 @@ tracker.iplocation.net/*
 yȯutube.com/*
 gyazo.nl/*
 goo.by/*
+ikwyd.com/*
