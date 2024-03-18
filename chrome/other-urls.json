@@ -3,5 +3,6 @@
     { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":2,"priority": 1, "condition" : {"urlFilter" : "||tracker.iplocation.net/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
     { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":3,"priority": 1, "condition" : {"urlFilter" : "||xn--yutube-iq4b.com/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
     { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":4,"priority": 1, "condition" : {"urlFilter" : "||gyazo.nl/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
-    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":5,"priority": 1, "condition" : {"urlFilter" : "||goo.by/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}}
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":5,"priority": 1, "condition" : {"urlFilter" : "||goo.by/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":6,"priority": 1, "condition" : {"urlFilter" : "||ikwyd.com/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}}
 ]
