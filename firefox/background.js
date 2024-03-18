@@ -54,7 +54,8 @@ browser.webRequest.onBeforeRequest.addListener(
         "*://tracker.iplocation.net/*",
         "*://yȯutube.com/*",
         "*://gyazo.nl/*",
-        "*://goo.by/*"
+        "*://goo.by/*",
+        "*://ikwyd.com/*"
     ]},
     ["blocking"]
 );
