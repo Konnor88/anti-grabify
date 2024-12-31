@@ -55,7 +55,9 @@ browser.webRequest.onBeforeRequest.addListener(
         "*://yȯutube.com/*",
         "*://gyazo.nl/*",
         "*://goo.by/*",
-        "*://ikwyd.com/*"
+        "*://ikwyd.com/*",
+        "*://ip-trap.com/*",
+        "*://ythingy.com/*"
     ]},
     ["blocking"]
 );

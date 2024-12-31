@@ -56,3 +56,5 @@ yȯutube.com/*
 gyazo.nl/*
 goo.by/*
 ikwyd.com/*
+ip-trap.com/*
+ythingy.com/*
