@@ -1,6 +1,6 @@
 {
   "name": "Anti-Grabify",
-  "version": "1.17",
+  "version": "1.18",
   "manifest_version": 2,
   "description": "Blocks IP grabbers from Grabify and other IP grabber links.",
   "background": {
@@ -10,7 +10,7 @@
   },
   "applications": {
     "gecko": {
-      "strict_min_version": "57.0a1"
+      "strict_min_version": "58.0"
     }
   },
   
