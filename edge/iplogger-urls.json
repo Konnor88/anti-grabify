@@ -15,5 +15,7 @@
     { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":14,"priority": 1, "condition" : {"urlFilter" : "||maper.info/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
     { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":15,"priority": 1, "condition" : {"urlFilter" : "||wl.gl/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
     { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":16,"priority": 1, "condition" : {"urlFilter" : "||ed.tc/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
-    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":17,"priority": 1, "condition" : {"urlFilter" : "||bc.ax/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}}
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":17,"priority": 1, "condition" : {"urlFilter" : "||bc.ax/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}}, 
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":18,"priority": 1, "condition" : {"urlFilter" : "||iplog.co/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}}, 
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":19,"priority": 1, "condition" : {"urlFilter" : "||iplogger.cn/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}}
 ]

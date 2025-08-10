@@ -1,6 +1,6 @@
 {
   "name": "Anti-Grabify",
-  "version": "2.2",
+  "version": "2.3",
   "manifest_version": 3,
   "description": "Blocks IP grabbers from Grabify and other IP grabber links.",
   "background": {
