@@ -28,6 +28,28 @@ grabb.site/*
 grabify.icu/*
 grabify.world/*
 grabifyicu.com/*
+location.cyou/*
+mymap.icu/*
+mymap.quest/*
+map-s.online/*
+crypto-o.click/*
+cryp-o.online/*
+account.beauty/*
+photospace.life/*
+photovault.store/*
+imagehub.fun/*
+sharevault.cloud/*
+xtube.chat/*
+screensnaps.top/*
+photovault.pics/*
+foot.wiki/*
+gamergirl.pro/*
+picshost.pics/*
+pichost.pics/*
+imghost.pics/*
+shrekis.life/*
+screenshot.best/*
+gamingfun.me/*
 
 ! IPLogger Links
 iplogger.org/*
@@ -48,6 +70,8 @@ maper.info/*
 wl.gl/*
 ed.tc/*
 bc.ax/*
+iplog.co/*
+iplogger.cn/*
 
 ! Other IP-Grabber Links
 ps3cfw.com/*
@@ -58,3 +82,4 @@ goo.by/*
 ikwyd.com/*
 ip-trap.com/*
 ythingy.com/*
+
