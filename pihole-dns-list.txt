@@ -1,6 +1,6 @@
 # Title: Anti-Grabify Blocklist
 # Description: This is a list of IP grabber domains, most of which from Grabify.
-# Last modified: 25 Dec 2022
+# Last modified: 10 Aug 2025
 # Expires: 1 day
 # Website: https://github.com/Konnor88/anti-grabify
 # Total number of network filters: 122
@@ -99,6 +99,8 @@
 0.0.0.0 02ip.ru
 0.0.0.0 www.iplogger.co
 0.0.0.0 iplogger.co
+0.0.0.0 www.iplogger.cn
+0.0.0.0 iplogger.cn
 0.0.0.0 www.iplogger.info
 0.0.0.0 iplogger.info
 0.0.0.0 www.ipgraber.ru
@@ -113,6 +115,8 @@
 0.0.0.0 iplis.ru
 0.0.0.0 www.maper.info
 0.0.0.0 maper.info
+0.0.0.0 iplog.co
+0.0.0.0 www.iplog.co
 0.0.0.0 www.wl.gl
 0.0.0.0 wl.gl
 0.0.0.0 www.ed.tc
@@ -127,3 +131,47 @@
 0.0.0.0 yȯutube.com
 0.0.0.0 www.gyazo.nl
 0.0.0.0 gyazo.nl
+0.0.0.0 location.cyou
+0.0.0.0 www.location.cyou
+0.0.0.0 mymap.icu
+0.0.0.0 www.mymap.icu
+0.0.0.0 mymap.quest
+0.0.0.0 www.mymap.quest
+0.0.0.0 map-s.online
+0.0.0.0 www.map-s.online
+0.0.0.0 crypto-o.click
+0.0.0.0 www.crypto-o.click
+0.0.0.0 cryp-o.online
+0.0.0.0 www.cryp-o.online
+0.0.0.0 account.beauty
+0.0.0.0 www.account.beauty
+0.0.0.0 photospace.life
+0.0.0.0 www.photospace.life
+0.0.0.0 photovault.store
+0.0.0.0 www.photovault.store
+0.0.0.0 imagehub.fun
+0.0.0.0 www.imagehub.fun
+0.0.0.0 sharevault.cloud
+0.0.0.0 www.sharevault.cloud
+0.0.0.0 xtube.chat
+0.0.0.0 www.xtube.chat
+0.0.0.0 screensnaps.top
+0.0.0.0 www.screensnaps.top
+0.0.0.0 photovault.pics
+0.0.0.0 www.photovault.pics
+0.0.0.0 foot.wiki
+0.0.0.0 www.foot.wiki
+0.0.0.0 gamergirl.pro
+0.0.0.0 www.gamergirl.pro
+0.0.0.0 picshost.pics
+0.0.0.0 www.picshost.pics
+0.0.0.0 pichost.pics
+0.0.0.0 www.pichost.pics
+0.0.0.0 imghost.pics
+0.0.0.0 www.imghost.pics
+0.0.0.0 shrekis.life
+0.0.0.0 www.shrekis.life
+0.0.0.0 screenshot.best
+0.0.0.0 www.screenshot.best
+0.0.0.0 gamingfun.me
+0.0.0.0 www.gamingfun.me
