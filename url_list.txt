@@ -82,4 +82,5 @@ goo.by/*
 ikwyd.com/*
 ip-trap.com/*
 ythingy.com/*
+cob.soy/*
 
