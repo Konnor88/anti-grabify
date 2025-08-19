@@ -175,3 +175,6 @@
 0.0.0.0 www.screenshot.best
 0.0.0.0 gamingfun.me
 0.0.0.0 www.gamingfun.me
+0.0.0.0 cob.soy
+0.0.0.0 www.cob.soy
+
