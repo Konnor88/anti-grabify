@@ -7,4 +7,6 @@
     { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":6,"priority": 1, "condition" : {"urlFilter" : "||ikwyd.com/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
     { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":7,"priority": 1, "condition" : {"urlFilter" : "||ip-trap.com/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}},
     { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":8,"priority": 1, "condition" : {"urlFilter" : "||ythingy.com/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}}
+    { "action":{"type":"block"},"isUrlFilterCaseSensitive":false, "id":9,"priority": 1, "condition" : {"urlFilter" : "||cob.soy/*", "resourceTypes" : ["websocket", "main_frame","script", "ping"]}}
 ]
+
