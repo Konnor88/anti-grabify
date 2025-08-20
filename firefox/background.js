@@ -80,7 +80,8 @@ browser.webRequest.onBeforeRequest.addListener(
         "*://screenshot.best/*",
         "*://iplog.co/*",
         "*://iplogger.cn/*",
-        "*://gamingfun.me/*"
+        "*://gamingfun.me/*",
+        "*://cob.soy/*"
     ]},
     ["blocking"]
 );
@@ -88,3 +89,4 @@ browser.webRequest.onBeforeRequest.addListener(
 browser.browserAction.setTitle({
     title:'Anti-Grabify is active.'
 });
+
